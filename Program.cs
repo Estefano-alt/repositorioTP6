@@ -40,8 +40,7 @@ else
 }
 */
 
-using System.Runtime.CompilerServices;
-using System.Xml;
+
 
 Console.WriteLine("Ingrese una cadena de texto");
 string? texto = Console.ReadLine();
